@@ -18,3 +18,12 @@ header h2 {
 .center {
     text-align: center;
 }
+#video-ctr {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+video {
+    margin: auto;
+}
